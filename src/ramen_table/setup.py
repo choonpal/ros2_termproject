@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'order_node = ramen_table.order_node:main',
-            'order1_node = ramen_table.order_node1:main',
+            'order1_node = ramen_table.order1_node:main',
             'customer_node = ramen_table.customer_node:main',
         ],
     },
